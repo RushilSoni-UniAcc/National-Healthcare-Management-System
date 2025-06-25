@@ -1,12 +1,6 @@
 # National-Healthcare-Management-System
 
-India's healthcare system is vast and complex, involving millions of patients, thousands of hospitals, 
-doctors, diseases, and insurance providers. But currently, there is no single platform that brings all 
-this information together in a well-organized and accessible way. This makes it hard to track patient 
-histories, manage insurance claims, monitor hospital resources, and analyse national health data. 
-Manual record-keeping or disconnected systems often lead to inefficiencies, errors, and delays in 
-care. 
-To solve this, we propose the National Healthcare Management System (NHMS), a centralized, 
+The National Healthcare Management System (NHMS), a centralized, 
 relational database management system. It captures the core entities of the Indian healthcare 
 system: patients, doctors, hospitals, diseases, insurance companies, and the government. Each entity 
 is modelled as a table, with relationships connecting them in meaningful ways. 
